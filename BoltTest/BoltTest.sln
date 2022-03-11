@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoltTest", "BoltTest\BoltTest.csproj", "{C0532DC2-A007-41BB-8C08-E7884E80D9BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoltTest.UnitTests", "BoltTest.UnitTests\BoltTest.UnitTests.csproj", "{36D3C4EE-2ACF-453B-A43A-C2B6671D6E51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0532DC2-A007-41BB-8C08-E7884E80D9BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0532DC2-A007-41BB-8C08-E7884E80D9BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0532DC2-A007-41BB-8C08-E7884E80D9BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0532DC2-A007-41BB-8C08-E7884E80D9BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36D3C4EE-2ACF-453B-A43A-C2B6671D6E51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36D3C4EE-2ACF-453B-A43A-C2B6671D6E51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36D3C4EE-2ACF-453B-A43A-C2B6671D6E51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36D3C4EE-2ACF-453B-A43A-C2B6671D6E51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7CEA1B6-480E-464E-A56F-48B38746E7AC}
+	EndGlobalSection
+EndGlobal
