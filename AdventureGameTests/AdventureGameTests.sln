@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventureGame", "AdventureGameTests\AdventureGame.csproj", "{02F56373-9F62-4FEC-9175-821FA2999CC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventureGame.Tests", "AdventureGame.Tests\AdventureGame.Tests.csproj", "{317DB0CA-F143-4B30-84BF-33DDBF3FD697}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02F56373-9F62-4FEC-9175-821FA2999CC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02F56373-9F62-4FEC-9175-821FA2999CC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02F56373-9F62-4FEC-9175-821FA2999CC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02F56373-9F62-4FEC-9175-821FA2999CC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{317DB0CA-F143-4B30-84BF-33DDBF3FD697}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{317DB0CA-F143-4B30-84BF-33DDBF3FD697}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{317DB0CA-F143-4B30-84BF-33DDBF3FD697}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{317DB0CA-F143-4B30-84BF-33DDBF3FD697}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDCA2E76-0893-4ADD-84E9-964408146796}
+	EndGlobalSection
+EndGlobal
